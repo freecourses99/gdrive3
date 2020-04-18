@@ -1,0 +1,38 @@
+Installation
+
+1. Upload and Extract
+
+2. Upload db.sql to phpmyadmin
+
+3. Change URL https://demo.pecintadrama.com to Yours Database Domain
+
+4. Setting User Database in Config.php
+
+5. Login to yourdomain/admin
+
+User : demo@demo.com
+
+Password : 12345678
+
+ 
+
+Change Ads/ SKIP Ads(VAST)
+
+1. Go to templates\jwplayer\template.php
+
+2. Jump to Line 34 or 39, then Insert your own XML URL VAST ADS TAG
+
+ 
+
+Different Ads Offset Types
+
+1. Pre : Before Video Started
+
+2. Post : After Video Finished Play
+
+3. 50% : In the middle of Video Plays
+
+ 
+
+https://support.juicycodes.com/en/knowledgebase/article/how-to-install-google-drive-proxy-player-script
+
